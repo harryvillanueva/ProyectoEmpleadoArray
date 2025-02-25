@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Input {
 
+    //comentario
+
     static int opcionMenu;
     static double numdouble;
     static String palabra;
